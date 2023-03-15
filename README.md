@@ -26,7 +26,7 @@ To resolve this issue:
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 3. [Course-specific instructions]
 
-Add new text here.
+Add new text here. updated 3-14-23
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
